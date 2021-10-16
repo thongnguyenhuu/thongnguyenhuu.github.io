@@ -63,9 +63,9 @@ body {
 
 .avatar {
     float: left;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
     border: 5px solid #fff;
     width: 200px;
     height: 200px
